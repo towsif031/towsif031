@@ -60,6 +60,8 @@
 
 </details>
 
+![](https://komarev.com/ghpvc/?username=towsif031&style=flat-square)
+
 [website]: https://towsif.me/
 [linkedin]: https://linkedin.com/in/towsif031/
 [portfolio]: https://towsif.me/
