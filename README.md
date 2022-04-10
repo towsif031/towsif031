@@ -7,7 +7,7 @@
 -   🔥 I’m currently learning <img align="center" alt="TypeScript" width="14px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img align="center" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
--   ⚡ Fun fact: I study Japanese language and I love watching anime.
+-   ⚡ Fun fact: I study Japanese language and love watching anime.
 
 ### 🔗 Connect with me:
 
