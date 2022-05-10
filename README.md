@@ -44,20 +44,12 @@
 
 <br />
 <br />
----
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="Omi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=towsif031&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>⚡ Most Used Languages</summary>
-
-<img align="left" alt="Omi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towsif031" />
-
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=towsif031&theme=blueberry&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towsif031&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 [website]: https://towsif.me/
