@@ -4,10 +4,10 @@
 
 -   🚩 You can learn more about me here [portfolio]
 -   👨‍💻 I do coding as a hobby.
--   🌱 I’m currently learning <img align="center" alt="TypeScript" width="14px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img align="center" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+-   🔥 I’m currently learning <img align="center" alt="TypeScript" width="14px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img align="center" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
--   ⚡ Fun fact: I study Japanese language and I love watching anime.
+-   ⚡ Fun fact: I study Japanese language and love watching anime.
 
 ### 🔗 Connect with me:
 
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
