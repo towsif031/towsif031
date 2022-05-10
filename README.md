@@ -11,8 +11,7 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img height="26" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>][linkedin]
 <br />
 
 ### Languages and Tools:
