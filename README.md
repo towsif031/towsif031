@@ -4,7 +4,7 @@
 
 -   🚩 You can learn more about me here [portfolio]
 -   👨‍💻 I do coding as a hobby.
--   🔥 I’m currently learning <img align="center" alt="TypeScript" width="14px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img align="center" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+-   🔥 I’m currently learning <img align="center" alt="TypeScript" width="60px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> and <img align="center" alt="NextJS" width="50px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
