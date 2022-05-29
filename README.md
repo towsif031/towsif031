@@ -4,7 +4,7 @@
 
 -   🚩 You can learn more about me here [portfolio]
 -   👨‍💻 I do coding as a hobby.
--   🔥 I’m currently learning <img align="center" alt="TypeScript" width="70px" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" /> and <img align="center" alt="NextJS" width="70px" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+-   🔥 I’m currently learning <img align="center" alt="TypeScript" width="70px" src="https://flat.badgen.net/badge/icon/TypeScript?icon=https://ico.now.sh/typescript/fff&color=3178C6&labelColor=3178C6&label" /> and <img align="center" alt="NextJS" width="70px" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
