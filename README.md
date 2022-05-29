@@ -4,7 +4,7 @@
 
 -   🚩 You can learn more about me here [portfolio]
 -   👨‍💻 I do coding as a hobby.
--   🔥 I’m currently learning <img align="center" alt="TypeScript" src="https://badgen.net/badge/icon/TypeScript?icon=https://ico.now.sh/typescript/fff&color=3178C6&labelColor=3178C6&label" /> and <img align="center" alt="NextJS" src="https://badgen.net/badge/icon/Next.js?icon=https://ico.now.sh/nextdotjs/fff&color=111111&labelColor=111111&label" />
+-   🔥 I’m currently learning <a href="#"><img align="center" alt="TypeScript" src="https://badgen.net/badge/icon/TypeScript?icon=https://ico.now.sh/typescript/fff&color=3178C6&labelColor=3178C6&label" /></a> and <a href="#"><img align="center" alt="NextJS" src="https://badgen.net/badge/icon/Next.js?icon=https://ico.now.sh/nextdotjs/fff&color=111111&labelColor=111111&label" /></a>
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
@@ -54,7 +54,7 @@
 <br />
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=towsif031&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/towsif031)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=towsif031&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)
 
 [website]: https://towsif.me/
 [linkedin]: https://linkedin.com/in/towsif031/
