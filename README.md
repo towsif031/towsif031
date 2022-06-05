@@ -9,9 +9,14 @@
 -   💬 Ask me about ... Anything
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
 
+<br />
+<br />
+
 ### 🔗 Connect with me:
 
-[<img height="26" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=linkedin&logoColor=white)][linkedin]
+
+<br />
 <br />
 
 ### Languages and Tools:
