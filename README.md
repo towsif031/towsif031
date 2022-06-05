@@ -10,13 +10,11 @@
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
 
 <br />
-<br />
 
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=linkedin&logoColor=white)][linkedin]
 
-<br />
 <br />
 
 ### Languages and Tools:
