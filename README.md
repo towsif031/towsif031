@@ -13,7 +13,7 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=linkedin&logoColor=white&scale=1.5)][linkedin]
+[![linkedin](https://badgen.net/badge/icon/LinkedIn?icon=https://ico.now.sh/linkedin/fff&color=3178C6&labelColor=3178C6&label&scale=1.5)][linkedin]
 
 <br />
 
