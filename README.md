@@ -4,7 +4,7 @@
 
 -   🚩 You can learn more about me here [portfolio]
 -   👨‍💻 I do coding as a hobby.
--   🔥 I’m currently learning <a href="#"><img align="center" alt="TypeScript" src="https://badgen.net/badge/icon/TypeScript?icon=https://ico.now.sh/typescript/fff&color=3178C6&labelColor=3178C6&label" /></a> and <a href="#"><img align="center" alt="NextJS" src="https://badgen.net/badge/icon/Next.js?icon=https://ico.now.sh/nextdotjs/fff&color=111111&labelColor=111111&label" /></a>
+-   🔥 I’m currently learning <a href="#"><img align="center" alt="TypeScript" src="https://badgen.net/badge/icon/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg&color=111&labelColor=111&label" /></a> and <a href="#"><img align="center" alt="NextJS" src="https://badgen.net/badge/icon/Next.js?icon=https://ico.now.sh/nextdotjs/fff&color=111111&labelColor=111111&label" /></a>
 -   💡 I’m looking to collaborate on open source projects
 -   💬 Ask me about ... Anything
 -   ⚡ Fun fact: I study Japanese language and love watching anime.
