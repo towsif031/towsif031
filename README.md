@@ -1,4 +1,4 @@
-### Hi there, I'm Omi <a href="https://towsif.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"></a>
+### Hi there, I'm Omi <a href="https://towsif.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"></a>
 
 ## I'm a Developer and a Technology enthusiast!!
 
