@@ -62,16 +62,6 @@
 <br />
 <br />
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=towsif031&theme=blueberry&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towsif031&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
-<br />
-<br />
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=towsif031&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)
 
 [website]: https://towsif.me/
