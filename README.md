@@ -64,7 +64,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=towsif031&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)
 
-[website]: https://towsif.me/
-[linkedin]: https://linkedin.com/in/towsif031/
-[portfolio]: https://towsif.me/
+[website]: https://towsifahmed.com
+[linkedin]: https://linkedin.com/in/towsif031
+[portfolio]: https://towsifahmed.com
 [nowhere]: #
