@@ -31,11 +31,23 @@
 <!--  -->
 
 ![React](https://badgen.net/badge/icon/React?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&color=111&labelColor=111&label&scale=1.2)
+![NextJS](https://badgen.net/badge/icon/Next.js?icon=https://ico.now.sh/nextdotjs/fff&color=111&labelColor=111&label&scale=1.2)
 ![Node.js](https://badgen.net/badge/icon/Node.js?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg&color=111&labelColor=111&label&scale=1.2)
 ![Express](https://badgen.net/badge/icon/Express?icon=https://ico.now.sh/express/fff&color=111&labelColor=111&label&scale=1.2)
 ![Laravel](https://badgen.net/badge/icon/Laravel?icon=https://ico.now.sh/laravel/ff2d20&color=111&labelColor=111&label&scale=1.2)
 ![Vue](https://badgen.net/badge/icon/Vue?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg&color=111&labelColor=111&label&scale=1.2)
 ![TensorFlow](https://badgen.net/badge/icon/TensorFlow?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg&color=111&labelColor=111&label&scale=1.2)
+
+<!--  -->
+
+![Prisma](https://badgen.net/badge/icon/Prisma?icon=https://ico.now.sh/prisma/fff&color=111&labelColor=111&label&scale=1.2)
+![tRPC](https://badgen.net/badge/icon/tRPC?icon=https://ico.now.sh/trpc/398ccb&color=111&labelColor=111&label&scale=1.2)
+![Zod](https://badgen.net/badge/icon/Zod?icon=https://ico.now.sh/zod/3e67b1&color=111&labelColor=111&label&scale=1.2)
+![TanStack Query](https://badgen.net/badge/icon/TanStack%20Query?icon=https://ico.now.sh/reactquery/ff4154&color=111&labelColor=111&label&scale=1.2)
+![Mongoose](https://badgen.net/badge/icon/Mongoose?icon=https://ico.now.sh/mongoose/f04d35&color=111&labelColor=111&label&scale=1.2)
+![JWT](https://badgen.net/badge/icon/JWT?icon=https://ico.now.sh/jsonwebtokens/fff&color=111&labelColor=111&label&scale=1.2)
+![Stripe](https://badgen.net/badge/icon/Stripe?icon=https://ico.now.sh/stripe/635bff&color=111&labelColor=111&label&scale=1.2)
+![Sanity](https://badgen.net/badge/icon/Sanity?icon=https://ico.now.sh/sanity/f03e2f&color=111&labelColor=111&label&scale=1.2)
 
 <!--  -->
 
@@ -52,6 +64,9 @@
 ![Github](https://badgen.net/badge/icon/GitHub?icon=https://ico.now.sh/github/fff&color=111&labelColor=111&label&scale=1.2)
 ![Docker](https://badgen.net/badge/icon/Docker?icon=https://ico.now.sh/docker/2496ed&color=111&labelColor=111&label&scale=1.2)
 ![Firebase](https://badgen.net/badge/icon/Firebase?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg&color=111&labelColor=111&label&scale=1.2)
+![Vite](https://badgen.net/badge/icon/Vite?icon=https://ico.now.sh/vite/646cff&color=111&labelColor=111&label&scale=1.2)
+![Vercel](https://badgen.net/badge/icon/Vercel?icon=https://ico.now.sh/vercel/fff&color=111&labelColor=111&label&scale=1.2)
+![pnpm](https://badgen.net/badge/icon/pnpm?icon=https://ico.now.sh/pnpm/f69220&color=111&labelColor=111&label&scale=1.2)
 
 <!--  -->
 
